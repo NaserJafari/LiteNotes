@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Dit is gemaakt in Laravel 9 met tailwind css. LiteNotes is een notes webapp.
+## Dit is gemaakt in Laravel 9 met tailwind css. LiteNotes is een notes webapp.
 
 ## About Laravel
 
